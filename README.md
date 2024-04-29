@@ -1,5 +1,5 @@
 <h1> Summary</h1>
-An MP3 Album Downloader app/website thing running as a single file.
+A (handmade) MP3 Album Downloader app/website thing running as a single file.
 
 <h1>Explanation</h1>
 The way this works is the "download" button is linked to a folder in Google Drive
